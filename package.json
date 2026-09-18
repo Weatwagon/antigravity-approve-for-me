@@ -1,0 +1,24 @@
+{
+  "name": "antigravity-approve-for-me",
+  "version": "1.0.0",
+  "description": "OpenAI Codex 'Approve for Me' Auto-Review Guardian Mode for Google AntiGravity",
+  "main": "scripts/guardian_engine.js",
+  "bin": {
+    "guardian": "bin/guardian.js"
+  },
+  "scripts": {
+    "test": "node tests/guardian.test.js && node tests/engine_e2e.test.js",
+    "guardian": "node bin/guardian.js"
+  },
+  "keywords": [
+    "antigravity",
+    "approval-mode",
+    "approve-for-me",
+    "codex",
+    "auto-review",
+    "guardian",
+    "security"
+  ],
+  "author": "Antigravity Team",
+  "license": "Apache-2.0"
+}

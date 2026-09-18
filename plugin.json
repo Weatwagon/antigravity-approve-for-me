@@ -1,0 +1,6 @@
+{
+  "name": "antigravity-approve-for-me",
+  "displayName": "Approve For Me (Auto-Review Guardian)",
+  "description": "ChatGPT/Codex-style 'Approve for Me' auto-review mode for Google AntiGravity. Auto-approves safe inner-loop workspace operations while escalating boundary escapes, destructive actions, and credential theft.",
+  "version": "1.0.0"
+}
